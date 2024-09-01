@@ -5,7 +5,7 @@ MongoSQL is a Node.js library that converts SQL queries into MongoDB queries. It
 ## Installation
 
 ```bash
-npm install mongosql
+npm install @cabesoft/mongosql
 ```
 
 ## Usage
