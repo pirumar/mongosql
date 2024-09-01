@@ -15,7 +15,7 @@ npm install @cabesoft/mongosql
 Before you can execute any queries, you'll need to initialize the `MongoSqlConverter` by providing the MongoDB connection string and the database name.
 
 ```javascript
-const MongoSqlConverter = require("mongosql");
+const MongoSqlConverter = require("@cabesoft/mongosql");
 
 const converter = new MongoSqlConverter(
   "mongodb://localhost:27017",
