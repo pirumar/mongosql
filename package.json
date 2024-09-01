@@ -1,0 +1,20 @@
+{
+  "name": "mongosql",
+  "version": "1.0.0",
+  "description": "A library to convert SQL queries to MongoDB queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sql",
+    "mongodb",
+    "converter",
+    "query"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.1.0"
+  }
+}
